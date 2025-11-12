@@ -1,3 +1,5 @@
+Glad to see you here! 
+
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
@@ -33,3 +35,4 @@
 
 ```
 
+* 🧐   Interested in full stack. Recent focus on Infra.
