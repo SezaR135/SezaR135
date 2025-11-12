@@ -18,4 +18,4 @@
 
 ```
 
-* 🧐   Interested in full stack. Recent focus on Infra.
+* 🧐   Interested in full stack. 
